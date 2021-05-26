@@ -1,0 +1,16 @@
+// Configurar datos de usuario git 
+
+// Configurar nombre
+git config --global user.name "Edisson"
+// Configurar email
+git config --global user.email "edi09migue@gmai.com"
+
+// Ininiciar
+git init
+// Verificar cambios 
+git status
+// agregar todos los cambios 
+git add .
+// agregar por archivo
+git add apuntes_git.txt
+
