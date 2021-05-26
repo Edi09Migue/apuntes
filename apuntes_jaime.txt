@@ -1,0 +1,14 @@
+Texto de Jaime Santana
+
+//Comandos para subir archivos al servidor central
+
+1) Realizamos un commit local
+1.1) git status
+1.2) git add .
+1.3) git commit -am "mensaje de cambios"
+
+
+2)Verificamos si no hay cambios en el servidor central
+2.1) git pull
+3) Subimos los cambios al repositorio central
+3.1) git push origin main
