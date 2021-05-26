@@ -14,3 +14,8 @@ git add .
 // agregar por archivo
 git add apuntes_git.txt
 
+// Crear carpeta 
+git commit -am  "Cambios que hicimos"
+
+// Historial de cambios
+git log
