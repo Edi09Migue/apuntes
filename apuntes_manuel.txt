@@ -1,0 +1,14 @@
+Txto de manuel
+
+// Comandos para subir archivos al servidor central
+
+1) Realizamos un commit local
+2) git status
+3) git add
+4) git commit -am "Mensaje de cambios"
+
+2) Verificar sin hay cambi en el servidor
+2.1) git pull
+3) Subimos los cambios al respositorio local
+3.1) git push origin main
+
